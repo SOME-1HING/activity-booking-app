@@ -9,7 +9,7 @@ Welcome to the **Activity Booking API**! This README provides everything you nee
 1️⃣ **Clone the repository**
 
 ```bash
-git clone https://github.com/activity-booking-app
+git clone https://github.com/SOME-1HING/activity-booking-app
 cd activity-booking-app
 ```
 
